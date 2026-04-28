@@ -1,0 +1,354 @@
+[
+  {
+    "slug": "trojuhelnicky",
+    "title": "Trojúhelníčky",
+    "year": 2024,
+    "platforms": [
+      "iOS",
+      "Apple TV"
+    ],
+    "tags": [
+      "mobile",
+      "action",
+      "shoot-em-up"
+    ],
+    "client": null,
+    "description": "Libor built this one alone. The title means 'little triangles', which is also a complete description of the visual language — your ship, the enemies, the bullets, everything. Inspired by suprematism and Galaga. Nine levels, 25 seconds each, no pauses, no mercy. Controls: left, right, shoot. Everything else is your problem.",
+    "images": [],
+    "videoSlug": null,
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Libor built this one alone. The title means 'little triangles', which is also a complete description of the visual language: your ship, the enemies, the bullets, the whole thing. The aesthetic comes from suprematism — geometric shapes, no decoration — crossed with the structure of Galaga. Waves of enemies, each shape playing a different role, all of them coming for you."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nine levels, 25 seconds each. No pauses between them, no power-ups, no checkpoints. Controls are left, right, and shoot — genuinely that's the complete list. Everything else is your problem."
+      },
+      {
+        "type": "link",
+        "label": "Get it on the App Store",
+        "url": "https://apps.apple.com/cz/app/trojuhelnicky/id1616878628"
+      }
+    ]
+  },
+  {
+    "slug": "go-rally",
+    "title": "Go Rally",
+    "year": 2023,
+    "platforms": [
+      "Nintendo Switch",
+      "iOS",
+      "Apple TV"
+    ],
+    "tags": [
+      "racing",
+      "mobile",
+      "console"
+    ],
+    "client": null,
+    "description": "Rally racing on everything with a screen. Go Rally started on iOS in 2016, grew through Apple TV, and landed on Nintendo Switch in January 2023 with a rebuilt graphics engine and 100 tracks across deserts, snowscapes and outback. Seven years across three platforms. Each version better than the last.",
+    "images": [],
+    "videoSlug": null,
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Go Rally started on iOS in 2016 — one of the first games from the studio that wasn't client work. Apple TV followed. Then Nintendo Switch in January 2023, which required rebuilding the graphics engine from scratch for a platform that actually deserved it. Seven years across three platforms, which is either commitment or stubbornness. Probably both."
+      },
+      {
+        "type": "paragraph",
+        "text": "There are 100 tracks across 30 rallies and 4 divisions — deserts, arctic snowscapes, forests, arid outback. Career runs from Rookie to Master. There's a track editor where you build stages, publish them, and race other people's. Daily challenges, online leaderboards, and cross-play: iOS players race against Switch players on the same servers. Drifting works by tapping reverse into corners, which sounds wrong until it clicks — then getting a clean exit off a hairpin is genuinely satisfying."
+      },
+      {
+        "type": "paragraph",
+        "text": "Reviews called it \"solid rally on a budget\" — fair, and also the point. It's not trying to be WRC. It's trying to be the best top-down rally game on a phone or a handheld, and at that it holds up well."
+      },
+      {
+        "type": "link",
+        "label": "More at gorallygame.com",
+        "url": "https://www.gorallygame.com"
+      }
+    ]
+  },
+  {
+    "slug": "remoteflight",
+    "title": "RemoteFlight",
+    "year": 2011,
+    "platforms": [
+      "iPhone",
+      "iPod"
+    ],
+    "tags": [
+      "utility",
+      "flight simulation"
+    ],
+    "client": null,
+    "description": "A set of apps for flight sim enthusiasts who weren't satisfied with just one screen. RemoteFlight turns your iPhone into a cockpit instrument panel — working alongside X-Plane and FSX on a proper computer. Because apparently one monitor is never enough.",
+    "images": [
+      "/images/2011__rfhsi_screen.png"
+    ],
+    "videoSlug": null,
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A set of apps for flight sim enthusiasts who weren't satisfied with just one screen. RemoteFlight turns your iPhone into a cockpit instrument panel — working alongside X-Plane and FSX on a proper computer. Because apparently one monitor is never enough."
+      }
+    ]
+  },
+  {
+    "slug": "puma-urban-motion",
+    "title": "Puma Urban Motion",
+    "year": 2009,
+    "platforms": [
+      "Web"
+    ],
+    "tags": [
+      "advergame",
+      "multiplayer",
+      "flash"
+    ],
+    "client": "Puma",
+    "description": "Dance game for Puma, but not in the embarrassing way. The game analyzes the actual music using Flash's FFT and scores you on how well you catch the beat. Players could record sessions, share them, and embed the whole thing as a widget on their blog. It worked surprisingly well.",
+    "images": [
+      "/images/puma__puma_home_th.jpg",
+      "/images/puma__puma_profile_th.jpg",
+      "/images/puma__puma_photo_th.jpg",
+      "/images/puma__puma_game1_th.jpg",
+      "/images/puma__puma_game2_th.jpg",
+      "/images/puma__puma_go_th.jpg",
+      "/images/puma__puma_edit_th.jpg"
+    ],
+    "videoSlug": null,
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Dance game for Puma, but not in the embarrassing way. The game analyzes the actual music using Flash's FFT and scores you on how well you catch the beat. Players could record sessions, share them, and embed the whole thing as a widget on their blog. It worked surprisingly well."
+      }
+    ]
+  },
+  {
+    "slug": "o2-hi-speed-racing",
+    "title": "O2 Hi-Speed Racing",
+    "year": 2009,
+    "platforms": [
+      "Facebook"
+    ],
+    "tags": [
+      "advergame",
+      "racing",
+      "flash"
+    ],
+    "client": "O2",
+    "description": "Racing game on Facebook for Telefónica O2 — which sounds like a weird brief, but turned into one of our more technically ambitious Flash projects. Pacejka tire physics, Bézier-spline track editor, dynamic engine sound synthesis, quad-tree viewport optimization. Also: you could race your friends. That part too.",
+    "images": [
+      "/images/o2__o2_home_th.jpg",
+      "/images/o2__o2_race1_th.jpg",
+      "/images/o2__o2_odmeny_th.jpg",
+      "/images/o2__o2_car_th.jpg",
+      "/images/o2__o2_race2_th.jpg",
+      "/images/o2__o2_race3_th.jpg",
+      "/images/o2__o2_edit1_th.jpg",
+      "/images/o2__o2_edit2_th.jpg"
+    ],
+    "videoSlug": null,
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Racing game on Facebook for Telefónica O2 — which sounds like a weird brief, but turned into one of our more technically ambitious Flash projects. Pacejka tire physics, Bézier-spline track editor, dynamic engine sound synthesis, quad-tree viewport optimization. Also: you could race your friends. That part too."
+      }
+    ]
+  },
+  {
+    "slug": "citrus-city",
+    "title": "Citrus City",
+    "year": 2007,
+    "platforms": [
+      "Web"
+    ],
+    "tags": [
+      "advergame",
+      "flash",
+      "fernet"
+    ],
+    "client": "Fernet Stock Citrus",
+    "description": "A virtual city for Fernet Stock Citrus where players had an avatar, a job, bills to pay, and a nightlife. Basically a browser MMO built around a liqueur brand — server-side multiplayer, anti-cheat, the works. It spread mostly by word of mouth, which was exactly the point.",
+    "images": [
+      "/images/citrus_city__intro.jpg",
+      "/images/citrus_city__scr_01.jpg",
+      "/images/citrus_city__scr_02.jpg",
+      "/images/citrus_city__scr_03.jpg",
+      "/images/citrus_city__scr_04.jpg",
+      "/images/citrus_city__scr_05.jpg",
+      "/images/citrus_city__scr_06.jpg",
+      "/images/citrus_city__scr_07.jpg",
+      "/images/citrus_city__scr_08.jpg"
+    ],
+    "videoSlug": "/projects/citrus-city-gameplay-video",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A virtual city for Fernet Stock Citrus where players had an avatar, a job, bills to pay, and a nightlife. Basically a browser MMO built around a liqueur brand — server-side multiplayer, anti-cheat, the works. It spread mostly by word of mouth, which was exactly the point."
+      }
+    ]
+  },
+  {
+    "slug": "pilsner-urquell-golf",
+    "title": "Pilsner Urquell Golf",
+    "year": 2006,
+    "platforms": [
+      "Web"
+    ],
+    "tags": [
+      "advergame",
+      "golf",
+      "3d",
+      "flash"
+    ],
+    "client": "Pilsner Urquell",
+    "description": "A fully 3D golf simulator in Flash, built for Pilsner Urquell's partnership with the Czech Golf Federation. We wrote the 3D engine from scratch — textured terrain, billboarded trees, real ball physics, wind. In a browser plugin. In 2006. We were very into this sort of thing.",
+    "images": [
+      "/images/upload__pu_golf1_th.jpg",
+      "/images/upload__pu_golf3_th.jpg",
+      "/images/upload__pu_golf2_th.jpg"
+    ],
+    "videoSlug": "/projects/pilsner-urquell-golf-gameplay-video",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A fully 3D golf simulator in Flash, built for Pilsner Urquell's partnership with the Czech Golf Federation. We wrote the 3D engine from scratch — textured terrain, billboarded trees, real ball physics, wind. In a browser plugin. In 2006. We were very into this sort of thing."
+      }
+    ]
+  },
+  {
+    "slug": "pilsner-urquell-olympics",
+    "title": "Pilsner Urquell Olympics",
+    "year": 2006,
+    "platforms": [
+      "Web"
+    ],
+    "tags": [
+      "advergame",
+      "flash",
+      "animation"
+    ],
+    "client": "Pilsner Urquell",
+    "description": "Three mini-games for Pilsner Urquell's Winter Olympics 2006 sponsorship. Ski jumping with exaggerated trick animations, bobsleigh on our first real-time 3D track, and curling against live opponents on a multiplayer server. Each one illustrated by hand and connected into a single experience.",
+    "images": [
+      "/images/pu_olympics__intro.jpg",
+      "/images/pu_olympics__scr_01.jpg",
+      "/images/pu_olympics__scr_02.jpg",
+      "/images/pu_olympics__scr_04.jpg",
+      "/images/pu_olympics__scr_05.jpg",
+      "/images/pu_olympics__scr_06.jpg",
+      "/images/pu_olympics__scr_07.jpg",
+      "/images/pu_olympics__scr_08.jpg"
+    ],
+    "videoSlug": "/projects/pilsner-urquell-olympics-gameplay-video",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Three mini-games for Pilsner Urquell's Winter Olympics 2006 sponsorship. Ski jumping with exaggerated trick animations, bobsleigh on our first real-time 3D track, and curling against live opponents on a multiplayer server. Each one illustrated by hand and connected into a single experience."
+      }
+    ]
+  },
+  {
+    "slug": "pilsner-urquell-casino",
+    "title": "Pilsner Urquell Casino",
+    "year": 2005,
+    "platforms": [
+      "Web"
+    ],
+    "tags": [
+      "advergame",
+      "flash",
+      "casino"
+    ],
+    "client": "Pilsner Urquell",
+    "description": "Two casino games — 8-ball pool and roulette — built into the Pilsner Urquell brand site as a loyalty system. Pool had a proper AI opponent, which was rare for Flash games at the time. Both are still generating traffic years later, which we consider a quiet success.",
+    "images": [
+      "/images/pu_casino__intro.jpg",
+      "/images/pu_casino__scr_01.jpg",
+      "/images/pu_casino__scr_02.jpg",
+      "/images/pu_casino__scr_03.jpg",
+      "/images/pu_casino__scr_04.jpg",
+      "/images/pu_casino__scr_05.jpg",
+      "/images/pu_casino__scr_06.jpg",
+      "/images/pu_casino__scr_07.jpg"
+    ],
+    "videoSlug": "/projects/pilsner-urquell-casino-gameplay-video",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Two casino games — 8-ball pool and roulette — built into the Pilsner Urquell brand site as a loyalty system. Pool had a proper AI opponent, which was rare for Flash games at the time. Both are still generating traffic years later, which we consider a quiet success."
+      }
+    ]
+  },
+  {
+    "slug": "becherov",
+    "title": "Becherov",
+    "year": 2005,
+    "platforms": [
+      "Web"
+    ],
+    "tags": [
+      "advergame",
+      "flash",
+      "award"
+    ],
+    "client": "Becherovka",
+    "description": "Before Inputwish existed, we built Becherov — a GTA-style car game set in a Czech city, made for a Becherovka game competition. We won. The prize money and the confidence it gave us were a big part of why the studio exists at all. The game was 6 MB, ran on Windows with OpenGL, and people were still downloading 1500 copies a month three years later.",
+    "images": [
+      "/images/becherov__intro.jpg",
+      "/images/becherov__scr_01.jpg",
+      "/images/becherov__scr_02.jpg",
+      "/images/becherov__scr_03.jpg",
+      "/images/becherov__scr_04.jpg",
+      "/images/becherov__scr_05.jpg",
+      "/images/becherov__scr_06.jpg",
+      "/images/becherov__scr_07.jpg",
+      "/images/becherov__scr_08.jpg",
+      "/images/icons__setup.gif",
+      "/images/icons__default.gif",
+      "/images/icons__default.gif"
+    ],
+    "videoSlug": "/projects/becherov-gameplay-video",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Before Inputwish existed, we built Becherov — a GTA-style car game set in a Czech city, made for a Becherovka game competition. We won. The prize money and the confidence it gave us were a big part of why the studio exists at all. The game was 6 MB, ran on Windows with OpenGL, and people were still downloading 1500 copies a month three years later."
+      }
+    ]
+  },
+  {
+    "slug": "citrus-impossible",
+    "title": "Citrus Impossible",
+    "year": 2003,
+    "platforms": [
+      "Web"
+    ],
+    "tags": [
+      "advergame",
+      "adventure",
+      "point-and-click"
+    ],
+    "client": "Fernet Stock",
+    "description": "Built before Inputwish was officially a studio, by one of its future founders. A point-and-click adventure for Fernet Stock Citrus — three episodes following a female secret agent investigating liqueur counterfeiters. Yes, really. Hand-drawn environments, comic strip cutscenes, Flash. The brief was unusual. We were very on board.",
+    "images": [
+      "/images/citrus_impossible__intro.jpg",
+      "/images/citrus_impossible__scr_01.jpg",
+      "/images/citrus_impossible__scr_02.jpg",
+      "/images/citrus_impossible__scr_03.jpg",
+      "/images/citrus_impossible__scr_04.jpg",
+      "/images/citrus_impossible__scr_05.jpg",
+      "/images/citrus_impossible__scr_06.jpg",
+      "/images/citrus_impossible__scr_07.jpg"
+    ],
+    "videoSlug": "/projects/citrus-impossible-gameplay-video",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Built before Inputwish was officially a studio, by one of its future founders. A point-and-click adventure for Fernet Stock Citrus — three episodes following a female secret agent investigating liqueur counterfeiters. Yes, really. Hand-drawn environments, comic strip cutscenes, Flash. The brief was unusual. We were very on board."
+      }
+    ]
+  }
+]

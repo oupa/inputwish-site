@@ -1,0 +1,164 @@
+[
+  {
+    "slug": "trojuhelnicky-launched",
+    "title": "Trojúhelníčky is out on iOS and Apple TV",
+    "date": "2024-01-09",
+    "content": "Libor, our one-man development army, just shipped his first game. Tight, fast, and slightly addictive.",
+    "images": [],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Libor, our one-man development army, just shipped his first game. Trojúhelníčky is a geometry-based shoot-'em-up — Galaga vibes, suprematist aesthetics, 9 levels that each last exactly 25 seconds."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tight, fast, and slightly addictive. Available on iOS and Apple TV."
+      },
+      {
+        "type": "link",
+        "label": "Get it on the App Store",
+        "url": "https://apps.apple.com/cz/app/trojuhelnicky/id1616878628"
+      }
+    ]
+  },
+  {
+    "slug": "go-rally-nintendo-switch",
+    "title": "Go Rally is on Nintendo Switch",
+    "date": "2023-01-13",
+    "content": "After years on mobile, Go Rally finally made it to a real controller.",
+    "images": [],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "After years on mobile, Go Rally finally made it to a real controller. The Switch version has a rebuilt graphics engine, 100 tracks across deserts, snowscapes and outback, and the same career mode that tens of thousands of mobile players have already put to the test."
+      },
+      {
+        "type": "paragraph",
+        "text": "Best version yet."
+      },
+      {
+        "type": "link",
+        "label": "More at gorallygame.com",
+        "url": "https://www.gorallygame.com"
+      },
+      {
+        "type": "link",
+        "label": "Go Rally on Nintendo eShop",
+        "url": "https://www.nintendo.com/store/products/go-rally-switch/"
+      }
+    ]
+  },
+  {
+    "slug": "go-rally-ios-launched",
+    "title": "Go Rally is live on iOS",
+    "date": "2016-11-01",
+    "content": "Go Rally is live on iOS — iPhone, iPad, universal. Published by Chillingo.",
+    "images": [],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Go Rally is live on iOS — iPhone, iPad, universal. Tracks, cars, career mode, a track creator, and cross-play with Apple TV."
+      },
+      {
+        "type": "paragraph",
+        "text": "Published by Chillingo. Go get it."
+      },
+      {
+        "type": "link",
+        "label": "More at gorallygame.com",
+        "url": "https://www.gorallygame.com"
+      }
+    ]
+  },
+  {
+    "slug": "go-rally-apple-tv",
+    "title": "Go Rally launches on Apple TV",
+    "date": "2016-02-01",
+    "content": "Go Rally launched on Apple TV on February 4, 2016 — published by Chillingo.",
+    "images": [],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Go Rally launched on Apple TV on February 4, 2016 — published by Chillingo. Pass-and-play multiplayer, Siri Remote controls, big-screen visuals."
+      },
+      {
+        "type": "paragraph",
+        "text": "The kind of game you hand to a family member who \"doesn't really play games\" and then have to pry from their hands."
+      },
+      {
+        "type": "link",
+        "label": "More at gorallygame.com",
+        "url": "https://www.gorallygame.com"
+      }
+    ]
+  },
+  {
+    "slug": "go-rally-ios",
+    "title": "Go Rally — coming to iOS",
+    "date": "2016-02-01",
+    "content": "We're building a rally game for iOS. Arcade feel, custom track editor, full touch controls.",
+    "images": [],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "We're building a rally game for iOS. Arcade feel, custom track editor, full touch controls."
+      },
+      {
+        "type": "link",
+        "label": "Follow progress at gorallygame.com",
+        "url": "https://www.gorallygame.com"
+      }
+    ]
+  },
+  {
+    "slug": "five-gum-sound-painter",
+    "title": "5Gum Sound Painter",
+    "date": "2013-03-01",
+    "content": "5Gum launched in Czech Republic, and they needed something weird for their site.",
+    "images": [
+      "/images/5gum__5gum_1_th.jpg",
+      "/images/5gum__5gum_2_th.jpg",
+      "/images/5gum__5gum_3_th.jpg"
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "5Gum launched in Czech Republic, and they needed something weird for their site. We built Sound Painter — a canvas where your mouse draws both visuals and music simultaneously."
+      },
+      {
+        "type": "paragraph",
+        "text": "Move slowly for ambient drones, slash fast for chaos. Built a custom particle engine in Alchemy for Flash to make it happen."
+      }
+    ]
+  },
+  {
+    "slug": "inputwish-moved",
+    "title": "We've moved",
+    "date": "2013-03-01",
+    "content": "Four years in a basement in Dejvice. Now we've surfaced — new office in Smíchov.",
+    "images": [],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Four years in a basement in Dejvice. Now we've surfaced — new office in Smíchov, near Arbesovo náměstí, actual windows, actual sunlight."
+      },
+      {
+        "type": "paragraph",
+        "text": "Come visit."
+      }
+    ]
+  },
+  {
+    "slug": "inputwishcom-restart",
+    "title": "The site is back",
+    "date": "2013-03-01",
+    "content": "After a longer break than planned, the site is back — new design, lighter codebase.",
+    "images": [],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "After a longer break than planned, the site is back — new design, lighter codebase, content still trickling in. The important stuff is already here."
+      }
+    ]
+  }
+]

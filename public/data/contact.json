@@ -1,0 +1,16 @@
+{
+  "company": "Inputwish s.r.o.",
+  "address": [
+    "Radlická 112/22",
+    "150 00 Praha 5",
+    "Czech Republic"
+  ],
+  "email": {
+    "business": "info@inputwish.com",
+    "support": "support@inputwish.com"
+  },
+  "legal": {
+    "id": "27370062",
+    "vatId": "CZ27370062"
+  }
+}
