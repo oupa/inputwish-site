@@ -14,7 +14,7 @@
     ],
     "client": null,
     "description": "Libor built this one alone. The title means 'little triangles', which is also a complete description of the visual language — your ship, the enemies, the bullets, everything. Inspired by suprematism and Galaga. Nine levels, 25 seconds each, no pauses, no mercy. Controls: left, right, shoot. Everything else is your problem.",
-    "images": [],
+    "images": ["/images/troju.jpg"],
     "videoSlug": null,
     "blocks": [
       {
@@ -48,7 +48,7 @@
     ],
     "client": null,
     "description": "Rally racing on everything with a screen. Go Rally started on iOS in 2016, grew through Apple TV, and landed on Nintendo Switch in January 2023 with a rebuilt graphics engine and 100 tracks across deserts, snowscapes and outback. Seven years across three platforms. Each version better than the last.",
-    "images": [],
+    "images": ["/images/gr.jpg"],
     "videoSlug": null,
     "blocks": [
       {

@@ -402,7 +402,11 @@ footer {
 
 /* ── Responsive ── */
 @media (max-width: 640px) {
-  .nav-links { gap: 20px; }
+  nav { height: 88px; }
+  .nav-inner { flex-direction: column; justify-content: center; gap: 10px; }
+  .nav-logo { justify-content: center; }
+  .nav-links { justify-content: center; gap: 20px; }
+  .page { padding-top: 88px; }
   .hero { padding: 64px 0 56px; }
   .hero-meta { gap: 28px; flex-wrap: wrap; }
   .project-gallery { grid-template-columns: 1fr; }
