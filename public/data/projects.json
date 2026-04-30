@@ -13,7 +13,7 @@
       "shoot-em-up"
     ],
     "client": null,
-    "description": "Libor built this one alone. The title means 'little triangles', which is also a complete description of the visual language — your ship, the enemies, the bullets, everything. Inspired by suprematism and Galaga. Nine levels, 25 seconds each, no pauses, no mercy. Controls: left, right, shoot. Everything else is your problem.",
+    "description": "Libor built this one alone. The title means 'little triangles', which is also a complete description of the visual language — your ship, the enemies, the bullets, everything. Inspired by suprematism and Galaga. Nine levels, 25 seconds each, no pauses, no mercy. Controls are: left, right. That's it. Everything else is your problem.",
     "images": ["/images/troju.jpg"],
     "videoSlug": null,
     "blocks": [
@@ -23,7 +23,7 @@
       },
       {
         "type": "paragraph",
-        "text": "Nine levels, 25 seconds each. No pauses between them, no power-ups, no checkpoints. Controls are left, right, and shoot — genuinely that's the complete list. Everything else is your problem."
+        "text": "Nine levels, 25 seconds each. No pauses between them, no power-ups, no checkpoints. Controls are left and right ... actually that's the complete list. Everything else is your problem."
       },
       {
         "type": "link",
